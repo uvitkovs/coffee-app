@@ -1,15 +1,141 @@
 [
-    {
-      "name": "Ethiopian Yirgacheffe",
-      "origin": "Ethiopia",
-      "roastLevel": "Light",
-      "flavorProfile": "Citrusy, floral, tea-like"
-    },
-    {
-      "name": "Colombian Supremo",
-      "origin": "Colombia",
-      "roastLevel": "Medium",
-      "flavorProfile": "Balanced, nutty, caramel"
-    }
-  ]
+  {
+    "name": "Ethiopian Yirgacheffe",
+    "origin": "Ethiopia",
+    "roastLevel": "Light",
+    "flavorProfile": "Citrusy, floral, tea-like"
+  },
+  {
+    "name": "Colombian Supremo",
+    "origin": "Colombia",
+    "roastLevel": "Medium",
+    "flavorProfile": "Balanced, nutty, caramel"
+  },
+  {
+    "name": "Costa Rican Tarrazú",
+    "origin": "Costa Rica",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Rich, chocolatey, hints of fruity acidity"
+  },
+  {
+    "name": "Sumatra Mandheling",
+    "origin": "Indonesia (Sumatra)",
+    "roastLevel": "Dark",
+    "flavorProfile": "Earthy, full-bodied, notes of dark chocolate and tobacco"
+  },
+  {
+    "name": "Kenyan AA",
+    "origin": "Kenya",
+    "roastLevel": "Light-Medium",
+    "flavorProfile": "Bright acidity, wine-like, black currant undertones"
+  },
+  {
+    "name": "Brazilian Santos",
+    "origin": "Brazil",
+    "roastLevel": "Medium",
+    "flavorProfile": "Nutty, chocolatey, mild acidity"
+  },
+  {
+    "name": "Guatemalan Antigua",
+    "origin": "Guatemala",
+    "roastLevel": "Medium",
+    "flavorProfile": "Spicy, floral, bright acidity"
+  },
+  {
+    "name": "Mexican Chiapas",
+    "origin": "Mexico",
+    "roastLevel": "Light-Medium",
+    "flavorProfile": "Citrusy, floral, with a clean finish"
+  },
+  {
+    "name": "Tanzanian Peaberry",
+    "origin": "Tanzania",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Bold, fruity, wine-like acidity"
+  },
+  {
+    "name": "Hawaiian Kona",
+    "origin": "Hawaii (Kona region)",
+    "roastLevel": "Light",
+    "flavorProfile": "Smooth, nutty, with a hint of tropical fruit"
+  },
+  {
+    "name": "Ethiopian Sidamo",
+    "origin": "Ethiopia",
+    "roastLevel": "Light",
+    "flavorProfile": "Bright acidity, floral, fruity"
+  },
+  {
+    "name": "Panama Boquete",
+    "origin": "Panama",
+    "roastLevel": "Medium",
+    "flavorProfile": "Crisp, winey, with citrus notes"
+  },
+  {
+    "name": "Nicaraguan Jinotega",
+    "origin": "Nicaragua",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Chocolatey, nutty, hints of spice"
+  },
+  {
+    "name": "Peruvian Chanchamayo",
+    "origin": "Peru",
+    "roastLevel": "Light-Medium",
+    "flavorProfile": "Sweet, floral, with a clean finish"
+  },
+  {
+    "name": "Rwanda Inzovu",
+    "origin": "Rwanda",
+    "roastLevel": "Medium",
+    "flavorProfile": "Juicy, wine-like, black tea notes"
+  },
+  {
+    "name": "Yemeni Mocha",
+    "origin": "Yemen",
+    "roastLevel": "Dark",
+    "flavorProfile": "Intense, spicy, with chocolate undertones"
+  },
+  {
+    "name": "Indian Monsooned Malabar",
+    "origin": "India",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Low acidity, full-bodied, earthy"
+  },
+  {
+    "name": "Burundi Kirimiro",
+    "origin": "Burundi",
+    "roastLevel": "Light",
+    "flavorProfile": "Bright, fruity, floral"
+  },
+  {
+    "name": "Honduran Marcala",
+    "origin": "Honduras",
+    "roastLevel": "Medium",
+    "flavorProfile": "Balanced, nutty, with a hint of spice"
+  },
+  {
+    "name": "El Salvador Finca Matalapa",
+    "origin": "El Salvador",
+    "roastLevel": "Medium",
+    "flavorProfile": "Caramel sweetness, nutty, medium acidity"
+  },
+  {
+    "name": "Laos Bolaven Plateau",
+    "origin": "Laos",
+    "roastLevel": "Light-Medium",
+    "flavorProfile": "Bright acidity, floral, citrusy"
+  },
+  {
+    "name": "Ecuadorian Loja",
+    "origin": "Ecuador",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Chocolatey, earthy, with a hint of fruit"
+  },
+  {
+    "name": "Puerto Rican Yaucono",
+    "origin": "Puerto Rico",
+    "roastLevel": "Medium",
+    "flavorProfile": "Smooth, balanced, caramel notes"
+  }
+]
   
