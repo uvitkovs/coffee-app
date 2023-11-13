@@ -1,0 +1,23 @@
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.coffee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 800px;
+}
+
+.coffee-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 45%;
+}
