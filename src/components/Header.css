@@ -1,13 +1,16 @@
-.App-header {
+body {
+    margin: 0;
+  }
+  
+  .App-header {
     background-color: #6c503e;
     color: #fff;
-    padding: 20px;
+    padding: 80px;
     text-align: center;
+    width: 100%;
   }
   
   h1 {
     margin: 0;
     font-size: 24px;
   }
-
-  

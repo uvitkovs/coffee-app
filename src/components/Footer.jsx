@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="App-footer">
-      <p>2023 Coffee Roasts</p>
+      <p>2023 Coffee Roasts by Julie Vitkovskaya</p>
     </footer>
   );
 }
