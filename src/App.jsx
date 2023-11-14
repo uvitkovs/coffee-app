@@ -1,12 +1,15 @@
 import React from 'react';
 import './App.css';
+import Header from './components/Header';
 import CoffeeList from './components/CoffeeList';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      <h1>Coffee Roasts</h1>
+      <Header />
       <CoffeeList />
+      <Footer />
     </div>
   );
 }
