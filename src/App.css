@@ -12,10 +12,6 @@ body {
   justify-content: center;
 }
 
-h1 {
-  color: #ffffff;
-}
-
 .coffee-list {
   display: flex;
   flex-wrap: wrap;
@@ -44,6 +40,7 @@ h1 {
   height: auto;
 }
 
+/* This begins the promo portion */
 .promo {
   display: flex;
   align-items: center;
@@ -76,4 +73,9 @@ h1 {
 
 .nav-links a:hover {
   text-decoration: underline;
+}
+
+h1 {
+  color: #ffffff;
+  margin-bottom: 20px; 
 }
