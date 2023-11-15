@@ -1,8 +1,8 @@
 .App-header {
-    background-color: #6c503e; /* Header background color */
-    color: #fff; /* Header text color */
+    background-color: #6c503e; 
+    color: #fff; 
     padding: 20px;
-    text-align: center;
+    /* text-align: center; */
   }
   
   h1 {
