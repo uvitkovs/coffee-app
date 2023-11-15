@@ -136,6 +136,12 @@
     "origin": "Puerto Rico",
     "roastLevel": "Medium",
     "flavorProfile": "Smooth, balanced, caramel notes"
+  },
+  {
+    "name": "Puerto Rican Texaco",
+    "origin": "Puerto Rico",
+    "roastLevel": "Medium-Dark",
+    "flavorProfile": "Smokey with caramel notes"
   }
 ]
   
