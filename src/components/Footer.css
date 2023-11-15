@@ -12,3 +12,18 @@
     font-size: 14px;
   }
   
+  .footer-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
