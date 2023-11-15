@@ -1,4 +1,5 @@
 const CoffeeItem = ({ coffee }) => {
+ 
   return (
     <div className="coffee-item">
       <h3>{coffee.name}</h3>
