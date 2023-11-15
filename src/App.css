@@ -36,8 +36,12 @@ body {
 }
 
 .image-container img {
-  width: 50%;
+  width: 70%;
   height: auto;
+}
+
+.image-container {
+  margin: 20px; /* Adjust the value as needed */
 }
 
 /* This begins the promo portion */
@@ -51,31 +55,4 @@ body {
   width: 50%;
   padding: 20px;
   align-items: center;
-}
-
-.App-header {
-  background-color: #333;
-  color: white;
-  padding: 1em;
-}
-
-.nav-links {
-  list-style-type: none;
-  display: flex;
-  justify-content: space-around;
-  padding: 0;
-}
-
-.nav-links a {
-  text-decoration: none;
-  color: white;
-}
-
-.nav-links a:hover {
-  text-decoration: underline;
-}
-
-h1 {
-  color: #ffffff;
-  margin-bottom: 20px; 
 }
